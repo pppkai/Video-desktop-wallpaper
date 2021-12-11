@@ -1,0 +1,10 @@
+﻿__pycache__
+.idea
+build
+dist
+downloads
+video
+cv.py
+*.spec
+*.txt
+*.log
